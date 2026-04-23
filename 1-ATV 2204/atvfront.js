@@ -4,3 +4,8 @@ let maiorDeIdade = idade >= 18;
 
 console.log(maiorDeIdade); // true
 
+let a="18";
+let b=18;
+
+console.log(a + b); 
+
